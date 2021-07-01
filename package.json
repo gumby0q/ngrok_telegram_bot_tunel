@@ -1,0 +1,14 @@
+{
+  "name": "ngrok_bot_ssh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ngrok": "^4.0.1",
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
